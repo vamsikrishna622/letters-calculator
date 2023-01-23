@@ -23,7 +23,7 @@ class LettersCalculator extends Component {
         <div className="calculator-container">
           <h1 className="heading">Calculate the Letters you enter</h1>
           <div className="phrase-container">
-            <label for="inputText" className="phrase">
+            <label htmlFor="inputText" className="phrase">
               Enter the phrase
             </label>
             <input
